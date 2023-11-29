@@ -1,0 +1,9 @@
+{
+  "name": "advent2023",
+  "version": "1.0.0",
+  "main": "src/",
+  "repository": "https://github.com/cchidhu/advent2023.git",
+  "author": "Chidhu Chockalingam <chidambaram.chockalingam@mutualofomaha.com>",
+  "license": "MIT",
+  "type": "module"
+}
